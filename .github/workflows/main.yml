@@ -15,3 +15,6 @@ jobs:
     - name: Run my python
       run: |
         python3 test.py
+    - name: Run my python again
+      run: |
+        python3 test.py
